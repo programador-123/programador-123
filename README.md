@@ -7,7 +7,7 @@
 Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
 
 - 🔭 Actualmente trabajando en: **[Actualmente estoy estudiando el desarrollo web y preparando mi proyecto final de curso]**
-- 🌱 Aprendiendo: **HTML5, Java, MySQL, Oracle y JavaScript**
+- 🌱 Aprendiendo: **Java, MySQL, Oracle y JavaScript**
 - 👯 Buscando colaborar en: **Proyectos educativos y open source**
 - 💬 Pregúntame sobre: **[Tengo un nivel medio de Ingles, tengo un nivel avanzado en la logistica asociada a las operaciones de mantenimiento y configuración de sistemas microinformaticos]**
 - 📫 Cómo contactarme: **perez.gonzalez.miguel.angel@iescamas.es**
