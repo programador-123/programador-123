@@ -37,7 +37,7 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=programador-123&show_icons=true&theme=radical)
-
+![Estadisticas](https://madnight.github.io/githut/)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=programador-123&layout=compact&theme=radical)
 
 ---
