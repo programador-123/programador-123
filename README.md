@@ -61,8 +61,8 @@ Soy estudiante de **Desarrollo de aplicaciones web** apasionado/a por la tecnolo
 ## 🎓 Educación
 
 - 📚 **[IES Camas Antonio Brisquet]**
-  - [DAW/1º]
-  - Año: [2025-2026]
+  - [DAW/2º]
+  - Año: [2026-2027]
 
 ---
 
